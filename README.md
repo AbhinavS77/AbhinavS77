@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE1dnV4dm5ucDJodm1oeG9lbXA2MDFpa3kwNjJuc3ljNDZrMHQ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L467SiRLYEl4ygMQjJ/giphy.gif" 
-       alt="Banner" 
-       style="width: 100%; max-width: 1000px; border-radius: 15px;" />
-</p>
-
 <h1 align="center" style="font-size: 50px; color: #32CD32; text-shadow: 0 0 10px #32CD32; font-family: 'Black Ops One', sans-serif;">
    Hi 👋, I'm Abhinav aka G.ONE
 </h1>
@@ -21,6 +15,12 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Black+Ops+One&color=32CD32&size=26&center=true&vCenter=true&width=600&lines=Love+GameDev;Level+Builder;Perfection+Seeker;Always+Learning+New+Skills" alt="Typing SVG" />
 </div>
+
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnE1dnV4dm5ucDJodm1oeG9lbXA2MDFpa3kwNjJuc3ljNDZrMHQ1YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L467SiRLYEl4ygMQjJ/giphy.gif" 
+       alt="Banner" 
+       style="width: 100%; max-width: 1000px; border-radius: 15px;" />
+</p>
 
 ---
 
@@ -44,11 +44,19 @@
 
 ---
 
-<h3 align="center" style="font-family: 'Black Ops One', sans-serif; background-color:#000000; padding: 10px; border-radius: 10px; color: #32CD32; text-shadow: 0 0 10px #32CD32;">🛠 Tech Stack:</h3>
+<h3 align="center" style="font-family: 'Black Ops One', sans-serif; background-color:#000000; padding: 10px; border-radius: 10px; color: #32CD32; text-shadow: 0 0 10px #32CD32;">🕹 Game Engines:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img src="https://img.shields.io/badge/Unreal%20Engine-313131?style=for-the-badge&logo=unrealengine&logoColor=white" />
+</p>
+
+<h3 align="center" style="font-family: 'Black Ops One', sans-serif; background-color:#000000; padding: 10px; border-radius: 10px; color: #32CD32; text-shadow: 0 0 10px #32CD32;">💻 Languages:</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+</p>
+
+<h3 align="center" style="font-family: 'Black Ops One', sans-serif; background-color:#000000; padding: 10px; border-radius: 10px; color: #32CD32; text-shadow: 0 0 10px #32CD32;">🎨 Tools:</h3>
+<p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </p>
